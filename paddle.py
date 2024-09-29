@@ -15,7 +15,6 @@ class Paddle(Turtle):
         new_y = self.ycor() + 30
         self.goto(self.xcor(), new_y)
 
-
   def move_down(self):
       # Check if the new y position is greater than -250 (the lower limit)
       if self.ycor() > -250:
