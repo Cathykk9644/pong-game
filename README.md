@@ -27,6 +27,24 @@ Clone the repository to your local machine using the following command, or downl
 
 ```bash
 git clone https://github.com/Cathykk9644/pong-game/tree/master
-
+```
 ### Setup
-No additional libraries are required as the turtle module is part of the standard Python library.
+
+No additional libraries are required to run this game, as the `turtle` module is part of the standard Python library. Ensure you have Python installed on your system to use `turtle`.
+
+### Running the Game
+
+Follow these steps to run the game on your local machine:
+
+1. **Open your command prompt (Windows) or terminal (macOS/Linux).**
+   - You can open the command prompt or terminal from your system's search menu.
+
+2. **Navigate to the directory where you downloaded the Pong game files.**
+   - If you downloaded the files to your "Downloads" folder, you would use commands like:
+     ```bash
+     cd Downloads/pong-game-directory
+     ```
+
+3. **Run the game by typing the following command:**
+   ```bash
+   python main.py
